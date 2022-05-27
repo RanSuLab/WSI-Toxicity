@@ -1,0 +1,612 @@
+Acetaminophen/1/27232.svs
+Acetaminophen/1/27237.svs
+Acetaminophen/1/27242.svs
+Acetaminophen/1/27246.svs
+Acetaminophen/1/27250.svs
+Carbon tetrachloride/1/26135.svs
+Carbon tetrachloride/1/26138.svs
+Carbon tetrachloride/1/26140.svs
+Carbon tetrachloride/1/26142.svs
+Carbon tetrachloride/1/26144.svs
+Rifampicin/0/4128.svs
+Rifampicin/0/4129.svs
+Rifampicin/0/4130.svs
+Rifampicin/0/4131.svs
+Rifampicin/0/4132.svs
+Phenylbutazone/0/26287.svs
+Phenylbutazone/0/26289.svs
+Phenylbutazone/0/26292.svs
+Phenylbutazone/0/26294.svs
+Phenylbutazone/0/26297.svs
+Clofibrate/0/3647.svs
+Clofibrate/0/3648.svs
+Clofibrate/0/3649.svs
+Clofibrate/0/3650.svs
+Clofibrate/0/3651.svs
+Allyl alcohol/1/4457.svs
+Allyl alcohol/1/4458.svs
+Allyl alcohol/1/4459.svs
+Allyl alcohol/1/4460.svs
+Allyl alcohol/1/4461.svs
+Thioacetamide/1/27680.svs
+Thioacetamide/1/27682.svs
+Thioacetamide/1/27684.svs
+Thioacetamide/1/27686.svs
+Thioacetamide/1/27689.svs
+Omeprazole/0/4958.svs
+Omeprazole/0/4962.svs
+Omeprazole/0/4967.svs
+Omeprazole/0/4971.svs
+Omeprazole/0/5122.svs
+DL‐ethionine/1/4794.svs
+DL‐ethionine/1/4796.svs
+DL‐ethionine/1/4797.svs
+DL‐ethionine/1/4799.svs
+DL‐ethionine/1/4803.svs
+Carbamazepine/0/5499.svs
+Carbamazepine/0/5502.svs
+Carbamazepine/0/5503.svs
+Carbamazepine/0/5505.svs
+Carbamazepine/0/5507.svs
+Benzbromarone/1/70477.svs
+Benzbromarone/1/6875.svs
+Benzbromarone/1/6876.svs
+Benzbromarone/1/6877.svs
+Benzbromarone/1/6878.svs
+Diazepam/1/6214.svs
+Diazepam/1/6216.svs
+Diazepam/1/6218.svs
+Diazepam/1/6221.svs
+Diazepam/1/6223.svs
+WY‐14643/1/8425.svs
+WY‐14643/1/8428.svs
+WY‐14643/1/8430.svs
+WY‐14643/1/8433.svs
+WY‐14643/1/8436.svs
+Gemfibrozil/1/8739.svs
+Gemfibrozil/1/8742.svs
+Gemfibrozil/1/8745.svs
+Gemfibrozil/1/8746.svs
+Gemfibrozil/1/8749.svs
+Bromobenzene/1/30270.svs
+Bromobenzene/1/30272.svs
+Bromobenzene/1/30274.svs
+Bromobenzene/1/30276.svs
+Bromobenzene/1/30278.svs
+Coumarin/1/7745.svs
+Coumarin/1/7747.svs
+Coumarin/1/7749.svs
+Coumarin/1/7751.svs
+Coumarin/1/7754.svs
+Allopurinol/0/7607.svs
+Allopurinol/0/7611.svs
+Allopurinol/0/7613.svs
+Allopurinol/0/7616.svs
+Allopurinol/0/7618.svs
+Propylthiouracil/1/8013.svs
+Propylthiouracil/1/8015.svs
+Propylthiouracil/1/8018.svs
+Propylthiouracil/1/8020.svs
+Propylthiouracil/1/8023.svs
+Sulfasalazine/1/8461.svs
+Sulfasalazine/1/8463.svs
+Sulfasalazine/1/8466.svs
+Sulfasalazine/1/8468.svs
+Sulfasalazine/1/8470.svs
+Cimetidine/0/8834.svs
+Cimetidine/0/8836.svs
+Cimetidine/0/8840.svs
+Cimetidine/0/8843.svs
+Cimetidine/0/8847.svs
+Perhexiline maleate/0/12100.svs
+Perhexiline maleate/0/12116.svs
+Perhexiline maleate/0/12127.svs
+Perhexiline maleate/0/12141.svs
+Perhexiline maleate/0/12153.svs
+Ketoconazole/0/71035.svs
+Ketoconazole/0/32588.svs
+Ketoconazole/0/32594.svs
+Ketoconazole/0/32599.svs
+Ketoconazole/0/71036.svs
+Glibenclamide/0/10327.svs
+Glibenclamide/0/10329.svs
+Glibenclamide/0/10331.svs
+Glibenclamide/0/10334.svs
+Glibenclamide/0/10336.svs
+Labetalol hydrochloride/0/10072.svs
+Labetalol hydrochloride/0/10075.svs
+Labetalol hydrochloride/0/10079.svs
+Labetalol hydrochloride/0/10083.svs
+Labetalol hydrochloride/0/10087.svs
+Methyltestosterone/1/10688.svs
+Methyltestosterone/1/10690.svs
+Methyltestosterone/1/14211.svs
+Methyltestosterone/1/10693.svs
+Methyltestosterone/1/10695.svs
+Haloperidol/0/9088.svs
+Haloperidol/0/9090.svs
+Haloperidol/0/9092.svs
+Haloperidol/0/9094.svs
+Haloperidol/0/9096.svs
+Thioridazine hydrochloride/0/9752.svs
+Thioridazine hydrochloride/0/9754.svs
+Thioridazine hydrochloride/0/9756.svs
+Thioridazine hydrochloride/0/9759.svs
+Thioridazine hydrochloride/0/9761.svs
+Pemoline/0/13123.svs
+Pemoline/0/13124.svs
+Pemoline/0/13126.svs
+Pemoline/0/13128.svs
+Pemoline/0/13130.svs
+Chlormezanone/1/32749.svs
+Chlormezanone/1/32751.svs
+Chlormezanone/1/32754.svs
+Chlormezanone/1/32756.svs
+Chlormezanone/1/32758.svs
+Metformin hydrochloride/0/13443.svs
+Metformin hydrochloride/0/13444.svs
+Metformin hydrochloride/0/13446.svs
+Metformin hydrochloride/0/13448.svs
+Metformin hydrochloride/0/13450.svs
+Fluphenazine dihydrochloride/0/9187.svs
+Fluphenazine dihydrochloride/0/9190.svs
+Fluphenazine dihydrochloride/0/9192.svs
+Fluphenazine dihydrochloride/0/9196.svs
+Fluphenazine dihydrochloride/0/9198.svs
+Methimazole/0/12823.svs
+Methimazole/0/12827.svs
+Methimazole/0/12831.svs
+Methimazole/0/12836.svs
+Methimazole/0/12840.svs
+Monocrotaline/1/12963.svs
+Monocrotaline/1/12966.svs
+Monocrotaline/1/12969.svs
+Monocrotaline/1/12972.svs
+Monocrotaline/1/12975.svs
+Vitamin A/1/14465.svs
+Vitamin A/1/14470.svs
+Vitamin A/1/14477.svs
+Vitamin A/1/14483.svs
+Vitamin A/1/14487.svs
+Griseofulvin/0/11076.svs
+Griseofulvin/0/11080.svs
+Griseofulvin/0/11085.svs
+Griseofulvin/0/11089.svs
+Griseofulvin/0/11092.svs
+Flutamide/1/11514.svs
+Flutamide/1/11517.svs
+Flutamide/1/11519.svs
+Flutamide/1/11522.svs
+Flutamide/1/11524.svs
+Tamoxifen citrate/0/13781.svs
+Tamoxifen citrate/0/13783.svs
+Tamoxifen citrate/0/13785.svs
+Tamoxifen citrate/0/13787.svs
+Tamoxifen citrate/0/13789.svs
+17‐α‐ethinylestradiol/1/13745.svs
+17‐α‐ethinylestradiol/1/13747.svs
+17‐α‐ethinylestradiol/1/13750.svs
+17‐α‐ethinylestradiol/1/13752.svs
+17‐α‐ethinylestradiol/1/13754.svs
+Methyldopa/0/14077.svs
+Methyldopa/0/14079.svs
+Methyldopa/0/14081.svs
+Methyldopa/0/14083.svs
+Methyldopa/0/14085.svs
+Tetracycline hydrochloride/0/11039.svs
+Tetracycline hydrochloride/0/11040.svs
+Tetracycline hydrochloride/0/11042.svs
+Tetracycline hydrochloride/0/11044.svs
+Tetracycline hydrochloride/0/11046.svs
+Lomustine/1/11795.svs
+Lomustine/1/11797.svs
+Lomustine/1/11801.svs
+Lomustine/1/11804.svs
+Lomustine/1/11806.svs
+Ciprofloxacin hydrochloride/0/48320.svs
+Ciprofloxacin hydrochloride/0/48323.svs
+Ciprofloxacin hydrochloride/0/48324.svs
+Ciprofloxacin hydrochloride/0/48325.svs
+Ciprofloxacin hydrochloride/0/48326.svs
+Tacrine hydrochloride/0/14845.svs
+Tacrine hydrochloride/0/14850.svs
+Tacrine hydrochloride/0/14855.svs
+Tacrine hydrochloride/0/14859.svs
+Tacrine hydrochloride/0/14864.svs
+Moxisylyte hydrochloride/0/17285.svs
+Moxisylyte hydrochloride/0/70574.svs
+Moxisylyte hydrochloride/0/17294.svs
+Moxisylyte hydrochloride/0/17298.svs
+Moxisylyte hydrochloride/0/17302.svs
+Iproniazid phosphate/0/18809.svs
+Iproniazid phosphate/0/18814.svs
+Iproniazid phosphate/0/18819.svs
+Iproniazid phosphate/0/18824.svs
+Iproniazid phosphate/0/18829.svs
+Chloramphenicol/1/15549.svs
+Chloramphenicol/1/15551.svs
+Chloramphenicol/1/15553.svs
+Chloramphenicol/1/15555.svs
+Chloramphenicol/1/15556.svs
+Nitrofurazone/0/16221.svs
+Nitrofurazone/0/16225.svs
+Nitrofurazone/0/16229.svs
+Nitrofurazone/0/16234.svs
+Ibuprofen/0/70585.svs
+Ibuprofen/0/36543.svs
+Ibuprofen/0/36548.svs
+Ibuprofen/0/36552.svs
+Ibuprofen/0/36556.svs
+Quinidine sulfate/0/22585.svs
+Quinidine sulfate/0/22591.svs
+Quinidine sulfate/0/22597.svs
+Quinidine sulfate/0/22603.svs
+Quinidine sulfate/0/22609.svs
+Imipramine hydrochloride/0/16711.svs
+Imipramine hydrochloride/0/16713.svs
+Imipramine hydrochloride/0/16715.svs
+Imipramine hydrochloride/0/16716.svs
+Imipramine hydrochloride/0/16718.svs
+Amitriptyline hydrochloride/0/19111.svs
+Amitriptyline hydrochloride/0/19113.svs
+Amitriptyline hydrochloride/0/19116.svs
+Amitriptyline hydrochloride/0/19118.svs
+Amitriptyline hydrochloride/0/19120.svs
+Hydroxyzine dihydrochloride/0/19392.svs
+Hydroxyzine dihydrochloride/0/19394.svs
+Hydroxyzine dihydrochloride/0/19396.svs
+Hydroxyzine dihydrochloride/0/19399.svs
+Hydroxyzine dihydrochloride/0/19401.svs
+Mefenamic acid/0/20089.svs
+Mefenamic acid/0/20092.svs
+Mefenamic acid/0/20094.svs
+Mefenamic acid/0/20097.svs
+Mefenamic acid/0/20099.svs
+Famotidine/0/20802.svs
+Famotidine/0/20803.svs
+Famotidine/0/20804.svs
+Famotidine/0/20805.svs
+Famotidine/0/20806.svs
+Nicotinic acid/0/58058.svs
+Nicotinic acid/0/58064.svs
+Nicotinic acid/0/58070.svs
+Nicotinic acid/0/58075.svs
+Nicotinic acid/0/58081.svs
+Erythromycin ethylsuccinate/0/23816.svs
+Erythromycin ethylsuccinate/0/23821.svs
+Erythromycin ethylsuccinate/0/23826.svs
+Erythromycin ethylsuccinate/0/23830.svs
+Erythromycin ethylsuccinate/0/23835.svs
+Ethambutol dihydrochloride/1/36094.svs
+Ethambutol dihydrochloride/1/36100.svs
+Ethambutol dihydrochloride/1/36105.svs
+Ethambutol dihydrochloride/1/36111.svs
+Ethambutol dihydrochloride/1/36116.svs
+Furosemide/0/20081.svs
+Furosemide/0/20083.svs
+Furosemide/0/20085.svs
+Furosemide/0/20086.svs
+Furosemide/0/20088.svs
+Fenofibrate/1/20364.svs
+Fenofibrate/1/20366.svs
+Fenofibrate/1/20368.svs
+Fenofibrate/1/20369.svs
+Fenofibrate/1/20371.svs
+Chlorpheniramine maleate/0/21326.svs
+Chlorpheniramine maleate/0/21328.svs
+Chlorpheniramine maleate/0/21329.svs
+Chlorpheniramine maleate/0/21331.svs
+Chlorpheniramine maleate/0/21333.svs
+Nifedipine/0/21026.svs
+Nifedipine/0/21028.svs
+Nifedipine/0/21030.svs
+Nifedipine/0/21031.svs
+Nifedipine/0/21033.svs
+Diltiazem hydrochloride/1/21765.svs
+Diltiazem hydrochloride/1/21770.svs
+Diltiazem hydrochloride/1/21774.svs
+Diltiazem hydrochloride/1/21779.svs
+Diltiazem hydrochloride/1/21783.svs
+Tannic acid/0/23990.svs
+Tannic acid/0/23992.svs
+Tannic acid/0/23994.svs
+Tannic acid/0/23996.svs
+Tannic acid/0/23998.svs
+Captopril/0/24774.svs
+Captopril/0/24777.svs
+Captopril/0/24780.svs
+Captopril/0/24784.svs
+Captopril/0/24787.svs
+Enalapril maleate/0/25361.svs
+Enalapril maleate/0/25363.svs
+Enalapril maleate/0/25365.svs
+Enalapril maleate/0/25366.svs
+Enalapril maleate/0/25367.svs
+Theophylline/1/57718.svs
+Theophylline/1/57723.svs
+Theophylline/1/57730.svs
+Theophylline/1/57736.svs
+Theophylline/1/57743.svs
+Caffeine/0/24837.svs
+Caffeine/0/24841.svs
+Caffeine/0/24847.svs
+Caffeine/0/24852.svs
+Caffeine/0/24857.svs
+Papaverine hydrochloride/0/37331.svs
+Papaverine hydrochloride/0/37336.svs
+Papaverine hydrochloride/0/37341.svs
+Papaverine hydrochloride/0/37346.svs
+Papaverine hydrochloride/0/37351.svs
+Chlorpropamide/1/20645.svs
+Chlorpropamide/1/20647.svs
+Chlorpropamide/1/20649.svs
+Chlorpropamide/1/20650.svs
+Chlorpropamide/1/20652.svs
+D‐penicillamine/0/37514.svs
+D‐penicillamine/0/37517.svs
+D‐penicillamine/0/37520.svs
+D‐penicillamine/0/37522.svs
+D‐penicillamine/0/37525.svs
+Sulindac/1/38209.svs
+Sulindac/1/38211.svs
+Sulindac/1/38213.svs
+Sulindac/1/38214.svs
+Sulindac/1/38216.svs
+Triamterene/0/38845.svs
+Triamterene/0/38847.svs
+Triamterene/0/38848.svs
+Triamterene/0/38849.svs
+Triamterene/0/38850.svs
+Ranitidine hydrochloride/0/23249.svs
+Ranitidine hydrochloride/0/23252.svs
+Ranitidine hydrochloride/0/23255.svs
+Ranitidine hydrochloride/0/23258.svs
+Ranitidine hydrochloride/0/23261.svs
+Disopyramide/1/38202.svs
+Disopyramide/1/38208.svs
+Disopyramide/1/38215.svs
+Disopyramide/1/38222.svs
+Disopyramide/1/38230.svs
+Mexiletine hydrochloride/1/53603.svs
+Mexiletine hydrochloride/1/53610.svs
+Mexiletine hydrochloride/1/53661.svs
+Mexiletine hydrochloride/1/53664.svs
+Mexiletine hydrochloride/1/53667.svs
+Tiopronin/0/46128.svs
+Tiopronin/0/46133.svs
+Tiopronin/0/46137.svs
+Tiopronin/0/46141.svs
+Tiopronin/0/46146.svs
+Acetazolamide/0/58391.svs
+Acetazolamide/0/58394.svs
+Acetazolamide/0/58397.svs
+Acetazolamide/0/58400.svs
+Acetazolamide/0/58403.svs
+Disulfiram/1/47429.svs
+Disulfiram/1/47434.svs
+Disulfiram/1/47438.svs
+Disulfiram/1/47442.svs
+Disulfiram/1/47446.svs
+Promethazine hydrochloride/1/48580.svs
+Promethazine hydrochloride/1/48585.svs
+Promethazine hydrochloride/1/48590.svs
+Promethazine hydrochloride/1/48596.svs
+Promethazine hydrochloride/1/48602.svs
+Colchicine/1/41509.svs
+Colchicine/1/41511.svs
+Colchicine/1/41513.svs
+Colchicine/1/41516.svs
+Colchicine/1/41518.svs
+Tolbutamide/0/40334.svs
+Tolbutamide/0/40336.svs
+Tolbutamide/0/40338.svs
+Tolbutamide/0/40340.svs
+Tolbutamide/0/40341.svs
+Sulpiride/0/41070.svs
+Sulpiride/0/41073.svs
+Sulpiride/0/41076.svs
+Sulpiride/0/41079.svs
+Sulpiride/0/41082.svs
+Acarbose/0/41517.svs
+Acarbose/0/41519.svs
+Acarbose/0/41521.svs
+Acarbose/0/41523.svs
+Acarbose/0/41525.svs
+Simvastatin/1/42196.svs
+Simvastatin/1/42198.svs
+Simvastatin/1/42200.svs
+Simvastatin/1/42203.svs
+Simvastatin/1/42205.svs
+Ajmaline/0/42914.svs
+Ajmaline/0/42916.svs
+Ajmaline/0/42918.svs
+Ajmaline/0/42921.svs
+Ajmaline/0/42923.svs
+Dantrolene sodium hemiheptahydrate/1/43576.svs
+Dantrolene sodium hemiheptahydrate/1/43578.svs
+Dantrolene sodium hemiheptahydrate/1/43580.svs
+Dantrolene sodium hemiheptahydrate/1/43582.svs
+Dantrolene sodium hemiheptahydrate/1/43583.svs
+Triazolam/0/42118.svs
+Triazolam/0/42120.svs
+Triazolam/0/42121.svs
+Triazolam/0/42123.svs
+Triazolam/0/42125.svs
+Clomipramine hydrochloride/1/42685.svs
+Clomipramine hydrochloride/1/42687.svs
+Clomipramine hydrochloride/1/42688.svs
+Clomipramine hydrochloride/1/42690.svs
+Clomipramine hydrochloride/1/42692.svs
+Trimethadione/1/43288.svs
+Trimethadione/1/43290.svs
+Trimethadione/1/43292.svs
+Trimethadione/1/43294.svs
+Trimethadione/1/43296.svs
+Terbinafine hydrochloride/1/43929.svs
+Terbinafine hydrochloride/1/43932.svs
+Terbinafine hydrochloride/1/43935.svs
+Terbinafine hydrochloride/1/43937.svs
+Terbinafine hydrochloride/1/43940.svs
+Lornoxicam/0/45194.svs
+Lornoxicam/0/45197.svs
+Lornoxicam/0/45200.svs
+Lornoxicam/0/45203.svs
+Lornoxicam/0/45205.svs
+Chlormadinone acetate/0/49482.svs
+Chlormadinone acetate/0/49487.svs
+Chlormadinone acetate/0/49492.svs
+Chlormadinone acetate/0/49497.svs
+Chlormadinone acetate/0/49503.svs
+Danazol/0/57268.svs
+Danazol/0/57273.svs
+Danazol/0/57278.svs
+Danazol/0/57284.svs
+Danazol/0/57288.svs
+Bendazac/1/44191.svs
+Bendazac/1/44192.svs
+Bendazac/1/44194.svs
+Bendazac/1/44195.svs
+Bendazac/1/44197.svs
+Benziodarone/1/44883.svs
+Benziodarone/1/44885.svs
+Benziodarone/1/44886.svs
+Benziodarone/1/44888.svs
+Benziodarone/1/44889.svs
+Etoposide/0/45377.svs
+Etoposide/0/45379.svs
+Etoposide/0/45381.svs
+Etoposide/0/45382.svs
+Etoposide/0/45384.svs
+2‐acetamidofluorene/1/51532.svs
+2‐acetamidofluorene/1/51533.svs
+2‐acetamidofluorene/1/51534.svs
+2‐acetamidofluorene/1/51535.svs
+2‐acetamidofluorene/1/51536.svs
+N‐nitrosodiethylamine/1/52413.svs
+N‐nitrosodiethylamine/1/52414.svs
+N‐nitrosodiethylamine/1/52415.svs
+N‐nitrosodiethylamine/1/52416.svs
+N‐nitrosodiethylamine/1/52417.svs
+2‐bromoethylamine hydrobromide/0/52820.svs
+2‐bromoethylamine hydrobromide/0/52824.svs
+2‐bromoethylamine hydrobromide/0/52828.svs
+2‐bromoethylamine hydrobromide/0/52832.svs
+2‐bromoethylamine hydrobromide/0/52836.svs
+Ticlopidine hydrochloride/1/53182.svs
+Ticlopidine hydrochloride/1/53185.svs
+Ticlopidine hydrochloride/1/53189.svs
+Ticlopidine hydrochloride/1/53191.svs
+Ticlopidine hydrochloride/1/53194.svs
+Ethionamide/1/46138.svs
+Ethionamide/1/46142.svs
+Ethionamide/1/46145.svs
+Ethionamide/1/46148.svs
+Ethionamide/1/46150.svs
+Nimesulide/1/47234.svs
+Nimesulide/1/47237.svs
+Nimesulide/1/47240.svs
+Nimesulide/1/47242.svs
+Nimesulide/1/47245.svs
+Ethanol/0/47873.svs
+Ethanol/0/47876.svs
+Ethanol/0/47879.svs
+Ethanol/0/47882.svs
+Ethanol/0/47885.svs
+Phenacetin/1/48791.svs
+Phenacetin/1/48797.svs
+Phenacetin/1/48802.svs
+Phenacetin/1/48806.svs
+Phenacetin/1/48811.svs
+Bucetin/1/49327.svs
+Bucetin/1/49330.svs
+Bucetin/1/49333.svs
+Bucetin/1/49336.svs
+Bucetin/1/49338.svs
+N‐phenylanthranilic acid/0/50262.svs
+N‐phenylanthranilic acid/0/50265.svs
+N‐phenylanthranilic acid/0/50267.svs
+N‐phenylanthranilic acid/0/50271.svs
+N‐phenylanthranilic acid/0/50273.svs
+Cephalothin sodium/0/54374.svs
+Cephalothin sodium/0/54380.svs
+Cephalothin sodium/0/54386.svs
+Cephalothin sodium/0/54392.svs
+Cephalothin sodium/0/54398.svs
+Cyclosporine A/1/54369.svs
+Cyclosporine A/1/54375.svs
+Cyclosporine A/1/54381.svs
+Cyclosporine A/1/54387.svs
+Cyclosporine A/1/54393.svs
+Puromycin aminonucleoside/1/70830.svs
+Puromycin aminonucleoside/1/55335.svs
+Puromycin aminonucleoside/1/55341.svs
+Puromycin aminonucleoside/1/55347.svs
+Puromycin aminonucleoside/1/55351.svs
+Gentamicin sulfate/0/55320.svs
+Gentamicin sulfate/0/55326.svs
+Gentamicin sulfate/0/55332.svs
+Gentamicin sulfate/0/55338.svs
+Gentamicin sulfate/0/55344.svs
+Doxorubicin hydrochloride/0/56161.svs
+Doxorubicin hydrochloride/0/56167.svs
+Doxorubicin hydrochloride/0/56173.svs
+Doxorubicin hydrochloride/0/56179.svs
+Doxorubicin hydrochloride/0/56184.svs
+Adapin (doxepin hydrochloride)/0/62178.svs
+Adapin (doxepin hydrochloride)/0/62180.svs
+Adapin (doxepin hydrochloride)/0/62181.svs
+Adapin (doxepin hydrochloride)/0/62183.svs
+Adapin (doxepin hydrochloride)/0/62185.svs
+Phenobarbital sodium/0/60912.svs
+Phenobarbital sodium/0/60914.svs
+Phenobarbital sodium/0/60916.svs
+α‐naphthyl isothiocyanate/1/61274.svs
+α‐naphthyl isothiocyanate/1/61276.svs
+α‐naphthyl isothiocyanate/1/61278.svs
+α‐naphthyl isothiocyanate/1/61280.svs
+α‐naphthyl isothiocyanate/1/61282.svs
+Cyclophosphamide monohydrate/1/60689.svs
+Cyclophosphamide monohydrate/1/60691.svs
+Cyclophosphamide monohydrate/1/60693.svs
+Cyclophosphamide monohydrate/1/60694.svs
+Cyclophosphamide monohydrate/1/60696.svs
+Phenytoin/0/60962.svs
+Phenytoin/0/60964.svs
+Phenytoin/0/60966.svs
+Phenytoin/0/60968.svs
+Phenytoin/0/60970.svs
+Isoniazid/0/60531.svs
+Isoniazid/0/60533.svs
+Isoniazid/0/60536.svs
+Isoniazid/0/60538.svs
+Isoniazid/0/60540.svs
+Aspirin/1/61589.svs
+Aspirin/1/61591.svs
+Aspirin/1/61593.svs
+Aspirin/1/61595.svs
+Aspirin/1/61598.svs
+Diclofenac sodium/0/61860.svs
+Diclofenac sodium/0/61862.svs
+Diclofenac sodium/0/61864.svs
+Diclofenac sodium/0/61866.svs
+Diclofenac sodium/0/61868.svs
+Hexachlorobenzene/1/62187.svs
+Hexachlorobenzene/1/62190.svs
+Hexachlorobenzene/1/62193.svs
+Hexachlorobenzene/1/62196.svs
+Hexachlorobenzene/1/62198.svs
+Amiodarone hydrochloride/0/62461.svs
+Amiodarone hydrochloride/0/62462.svs
+Amiodarone hydrochloride/0/62464.svs
+Amiodarone hydrochloride/0/62466.svs
+Amiodarone hydrochloride/0/62467.svs
+Chlorpromazine hydrochloride/0/61562.svs
+Chlorpromazine hydrochloride/0/61564.svs
+Chlorpromazine hydrochloride/0/61566.svs
+Chlorpromazine hydrochloride/0/61568.svs
+Chlorpromazine hydrochloride/0/61570.svs
+Nitrofurantoin/0/70036.svs
+Nitrofurantoin/0/70037.svs
+Nitrofurantoin/0/70038.svs
+Nitrofurantoin/0/71106.svs
+Nitrofurantoin/0/70040.svs
